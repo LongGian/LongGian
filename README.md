@@ -27,8 +27,7 @@ BSc in Computer Engineering (ongoing)
 
 ### 📬 Get in Touch
 
-LinkedIn: linkedin.com/in/LongGian
-
-email: your.email@example.com
+- LinkedIn: linkedin.com/in/LongGian
+- Email: gianmarco.longiaru@gmail.com / longiaru.1965768@studenti.uniroma1.it
 
 Feel free to get in touch with me for collaborations or just for a chat. I'm always open to new opportunities and ideas!
