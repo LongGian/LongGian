@@ -28,6 +28,7 @@ BSc in Computer Engineering (ongoing)
 ### 📬 Get in Touch
 
 LinkedIn: linkedin.com/in/LongGian
+
 email: your.email@example.com
 
 Feel free to get in touch with me for collaborations or just for a chat. I'm always open to new opportunities and ideas!
