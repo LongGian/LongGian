@@ -1,4 +1,4 @@
-## Hi 👋
+# Hi 👋
 
 I'm a Computer Engineering student at "La Sapienza" University of Rome. My passion for computer science has taken me on a journey through various areas of the field, including software development, telecommunications, databases, web application development (both front-end and back-end), and operating systems.
 
