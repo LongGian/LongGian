@@ -16,19 +16,18 @@ BSc in Computer Engineering (ongoing)
 
 ### 💼 Past Projects
 
-    Wrote SQL queries on PostgreSQL databases utilizing large ministerial datasets
-    Created network simulations with ns3 (C++) and packet analysis with Wireshark
-    Developed web apps in HTML, CSS, JS, jQuery, and Node.js that use OpenAI APIs
+- Wrote SQL queries on PostgreSQL databases utilizing large ministerial datasets
+- Created network simulations with ns3 (C++) and packet analysis with Wireshark
+- Developed web apps in HTML, CSS, JS, jQuery, and Node.js that use OpenAI APIs
 
 ### 🛠 Current Projects
 
-    Working on building a FAT file system
-    Developing a web app with Ruby on Rails
+- Working on building a FAT file system
+- Developing a web app with Ruby on Rails
 
 ### 📬 Get in Touch
 
-    LinkedIn: linkedin.com/in/yourusername
-    Twitter: @yourusername
-    Email: your.email@example.com
+LinkedIn: linkedin.com/in/LongGian
+email: your.email@example.com
 
 Feel free to get in touch with me for collaborations or just for a chat. I'm always open to new opportunities and ideas!
